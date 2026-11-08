@@ -34,10 +34,6 @@ My goal is to continuously improve, learn new technologies, and build solutions 
 
 Here are some of my academic and personal projects:
 
--## 🚀 Projects
-
-Here are some of my academic and personal projects:
-
 ### 🍳 [AI Recipe Assistant](https://github.com/Biel9080/AI-recipe-assistant)
 An AI-powered recipe generator built with Python, LangChain, Groq API, and Llama 3. It generates complete recipes directly in the terminal.
 
@@ -48,7 +44,7 @@ An interactive Halloween party invitation website developed with HTML, CSS, Boot
 
 **Technologies:** HTML, CSS, Bootstrap, JavaScript.
 
-### 🎓 [Student Management System](https://github.com/Biel9080/Student-management-system.)
+### 🎓 [Student Management System](https://github.com/Biel9080/Student-management-system)
 A student management system developed in Python to register students, calculate grades, track attendance, and generate academic reports.
 
 **Technologies:** Python, Programming Logic, Lists, Dictionaries.
